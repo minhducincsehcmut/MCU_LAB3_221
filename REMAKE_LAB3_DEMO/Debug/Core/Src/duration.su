@@ -1,0 +1,4 @@
+duration.c:19:6:modify_traffic_buffer	16	static
+duration.c:26:6:change	16	static
+duration.c:49:6:increase_duration	8	static
+duration.c:56:6:update	16	static

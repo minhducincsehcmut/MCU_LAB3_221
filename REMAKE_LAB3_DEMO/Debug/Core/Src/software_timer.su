@@ -1,0 +1,4 @@
+software_timer.c:15:6:setTimer	16	static
+software_timer.c:20:5:getCurrTimer	16	static
+software_timer.c:24:6:isTimerFlagOn	16	static
+software_timer.c:32:6:timerRun	16	static

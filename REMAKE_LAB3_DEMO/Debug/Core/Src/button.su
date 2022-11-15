@@ -1,0 +1,3 @@
+button.c:21:6:button_reading	16	static
+button.c:56:6:subKeyProcess	16	static
+button.c:60:5:checkPressed	16	static
